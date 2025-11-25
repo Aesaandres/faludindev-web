@@ -39,7 +39,7 @@ export default function Contact() {
                   <div className="p-3 bg-primary rounded-full text-segundary group-hover:scale-110 transition-transform">
                     <Github size={20} />
                   </div>
-                  <span className="font-medium">github.com/faludindev</span>
+                  <span className="font-medium">github.com/aesaandres</span>
                 </a>
 
                 <a href="www.linkedin.com/in/andres-sanchez-6266701a0" className="flex items-center space-x-4 text-cuaternary hover:text-brand-accent transition-colors p-4 bg-primary/50 rounded-lg border border-cuaternary/5 hover:border-segundary/30 group">
