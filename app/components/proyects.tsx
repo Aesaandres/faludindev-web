@@ -58,17 +58,13 @@ export default function Proyects() {
                             Una selección de trabajos y experimentos de código abierto.
                         </p>
                     </div>
-                    <a
-                        href="https://github.com/faludindev"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="hidden md:flex items-center text-segundary font-medium hover:underline mt-4 md:mt-0"
-                    >
-                        Ver todo en GitHub <ExternalLink className="ml-2 w-4 h-4" />
-                    </a>
-                </div>
 
+                </div>
+                <h2 className='text-center'>Proximamente...</h2>
                 <div className="grid md:grid-cols-2 gap-8">
+
+                    {/* Welcome developers! 
+
                     {projectsData.map((project, idx) => (
                         <motion.article
                             key={project.id}
@@ -119,7 +115,7 @@ export default function Proyects() {
                                 </div>
                             </div>
                         </motion.article>
-                    ))}
+                    ))} */}
                 </div>
 
                 <div className="mt-12 text-center md:hidden">
