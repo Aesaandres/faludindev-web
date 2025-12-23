@@ -15,7 +15,7 @@ export default function Home() {
       <Contact />
        <footer className="bg-primary border-t border-cuaternary py-8">
         <div className="container mx-auto px-4 text-center text-cuaternary/40 text-sm">
-          <p>&copy; {new Date().getFullYear()} Andres Sanchez. FaludinDev. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Andrés Sanchez. FaludinDev. Todos los derechos reservados.</p>
           <p className="mt-2 text-xs">Hecho con Next js & Tailwind CSS.</p>
         </div>
       </footer>
